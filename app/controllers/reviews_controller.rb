@@ -11,9 +11,6 @@ class ReviewsController < ApplicationController
     end
   end
 
-  def index
-  end
-
   private
 
   def set_restaurant
